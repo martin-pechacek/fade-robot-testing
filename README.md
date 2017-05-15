@@ -1,4 +1,5 @@
 # Fade.cz Robot Framework Selenium Testing
+School project (Test automation using Robot Framework) for 4IT446 - Software quality management
 
 ### Prerequisites
 * Install [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/)
