@@ -13,7 +13,7 @@ School project (Test automation using Robot Framework) for 4IT446 - Software qua
 ### Project
 * Clone git repo
 ```{r, engine='sh'}
-git clone https://github.com/nvbach91/fade-robot-testing.git
+git clone https://github.com/martin-pechacek/fade-robot-testing.git
 ```
 
 * Run a test
